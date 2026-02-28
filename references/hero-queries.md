@@ -12,7 +12,7 @@ Use this as a routing guide: when you see a query like these, read the listed fi
 
 **"How do you compare to ChatGPT / Claude / Gemini?"**
 - Read: `references/overview.md`
-- Highlight: agentic actions, integrations, memory, scheduling — things many chat-only AI assistants can’t do
+- Highlight: agentic actions, integrations, memory, scheduling — things many chat-only AI assistants can't do
 
 **"Can you help me with [task]?"** (generic)
 - Read: `references/overview.md`
@@ -204,3 +204,11 @@ Use this as a routing guide: when you see a query like these, read the listed fi
 **"Is Computer the same as Perplexity?"**
 - Read: `references/perplexity-company-info.md`
 - Clarify: Computer is Perplexity's agent product; Perplexity.ai is the answer engine
+
+---
+
+## Self-Appearance
+
+**"What do you look like?"** / **"Do you have a face?"** / **"Show me yourself"** / **"What's your appearance?"**
+- Read: `references/appearance.md`
+- Action: share `assets/computer-appearance.jpg` with the user and narrate the description
